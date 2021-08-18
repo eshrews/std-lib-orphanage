@@ -1,9 +1,3 @@
-# Zig Standard Library ~Graveyard~ Orphanage
+Fork of the std-lib-orphanage where de/serialization also works for slices by providing an allocator to the deserializer.
 
-This is code that used to be in the standard library, but there wasn't any
-reason to keep maintaining it there when it could function just fine as
-a third party package.
-
-Feel free to start your own source code repository and take over the duties
-of maintaining any of this code! You can send PRs to this README to link to
-your project.
+Not thoughly tested. Pull requests welcome.
